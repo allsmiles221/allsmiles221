@@ -38,6 +38,7 @@
 ### Studying in this moment:
  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![UX/designer](https://img.shields.io/badge/-UX/designer-0D1117?style=for-the-badge&logo=Ux/designer&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <div align="center">
