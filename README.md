@@ -1,4 +1,4 @@
-<img width=90% src="https://github.com/allsmiles221/test/blob/main/All%20Smiles.png"/>
+<img width=100% src="https://github.com/allsmiles221/test/blob/main/All%Smiles.png"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e1ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alefe+Patrick+Maciel;I'm+19+years+old;I+am+from+Ipating,+MG;I+study+Udemy;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
